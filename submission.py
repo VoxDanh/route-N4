@@ -309,3 +309,4 @@ class NoWaypointsHeuristic(Heuristic):
         return self.ucs[state.location]
         raise Exception("Not implemented yet")
         # END_YOUR_CODE
+        #hello
